@@ -1,3 +1,10 @@
+/**
+ * Starts HankeVis visualisation
+ *
+ * Usage:
+ * HankeVis(onReadyCallBackFunction);
+ */
+
 var HankeVis = function(HankeVisOnReadyCallBack) {
 //	var BubbleChart, hankeUtil, root,
   var BubbleChart, root,
